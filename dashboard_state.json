@@ -1,9 +1,0 @@
-{
-  "generated_at": "2026-06-22 17:38:31",
-  "latest_monitor_date": "2026-06-22",
-  "source": "page_full_merged_history",
-  "data_source_policy": "first_layer_page_full_all_supported_schemas_with_latest_valid_rank_table_fallback",
-  "source_schema_policy": "first_layer_page_full_current_and_legacy_with_status_states",
-  "accepted_history_rows": 2680,
-  "trend_days": 30
-}
